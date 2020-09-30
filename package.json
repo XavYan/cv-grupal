@@ -1,0 +1,24 @@
+{
+  "name": "cv-grupal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel --port 3000 src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XavYan/cv-grupal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XavYan/cv-grupal/issues"
+  },
+  "homepage": "https://github.com/XavYan/cv-grupal#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
